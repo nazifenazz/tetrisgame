@@ -84,3 +84,17 @@ I used different classes for different shapes.
 I used simple keyboard control for movement.
 
 This project helped me understand Java classes arrays loops and simple game logic.
+
+## Türkçe Kısa Açıklama
+
+Bu proje Java ile yaptığım basit bir Tetris oyunudur.
+
+Oyunda farklı şekiller rastgele gelir ve aşağı doğru düşer.
+
+Oyuncu şekilleri sağa sola hareket ettirebilir ve döndürebilir.
+
+Satır dolunca satır silinir.
+
+Yeni şekil yerleşemezse oyun biter.
+
+Bu projeyi Java sınıflarını dizileri döngüleri ve basit oyun mantığını öğrenmek için yaptım.
